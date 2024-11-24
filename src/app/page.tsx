@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from '@/components/ui/card';
-import { Button } from '@/src/components/ui/button';
+import { Button } from '@/components/ui/button';
 
 const HeroSection = () => (
   <div className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
